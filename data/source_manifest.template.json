@@ -1,0 +1,15 @@
+{
+  "dataset_name": "PVDAQ selected site (TO BE FILLED)",
+  "source_url": null,
+  "site_id": null,
+  "accessed_on": null,
+  "license": null,
+  "timezone": null,
+  "sampling_interval_minutes": null,
+  "power_unit": "kW after normalization",
+  "original_column_mapping": {
+    "timestamp": null,
+    "power_kw": null
+  },
+  "notes": "Complete only after inspecting actual site data; this is not a populated source record."
+}
